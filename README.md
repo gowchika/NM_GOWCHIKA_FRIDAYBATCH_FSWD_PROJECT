@@ -1,15 +1,22 @@
-# NM_GOWCHIKA_FRIDAYBATCH_FSWD_PROJECT
-
-Name:GOWCHIKA A P
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID:au960221104059
+Project implemented by: 
 
 
-College name:Arunachala college of Engineering for women
+Name:
 
 
-Username:student
+ID:
 
 
-Password:12345
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
